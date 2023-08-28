@@ -241,4 +241,4 @@ pull using the `pip` command which we will learn more about in the following les
 ## Resources
 
 - [Python 3 Documentation](https://docs.python.org/3/)
-- [Python import system](https://docs.python.org/3/reference/import.html)
+- [Python import system](https://docs.python.org/3/reference/import.html).
